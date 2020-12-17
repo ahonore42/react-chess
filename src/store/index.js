@@ -1,8 +1,7 @@
 import { createStore, combineReducers, applyMiddleware } from 'redux';
 import { composeWithDevTools } from 'redux-devtools-extension';
-import ChessReducer from './reducers/ChessReducer'
-
 import thunk from 'redux-thunk';
+import ChessReducer from './reducers/ChessReducer';
 
 const store = createStore(
   combineReducers({
