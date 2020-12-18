@@ -1,0 +1,30 @@
+import AlfilWhite from './alfil_white.svg';
+import AlfilBlack from './alfil_black.svg';
+import BishopWhite from './bishop_white.svg';
+import BishopBlack from './bishop_black.svg';
+import KingWhite from './king_white.svg';
+import KingBlack from './king_black.svg';
+import KnightWhite from './knight_white.svg';
+import KnightBlack from './knight_black.svg';
+import PawnWhite from './pawn_white.svg';
+import PawnBlack from './pawn_black.svg';
+import QueenWhite from './queen_white.svg';
+import QueenBlack from './queen_black.svg';
+import RookWhite from './rook_white.svg';
+import RookBlack from './rook_black.svg';
+
+export const alfilWhite = AlfilWhite;
+export const alfilBlack = AlfilBlack;
+export const bishopWhite = BishopWhite;
+export const bishopBlack = BishopBlack;
+export const kingWhite = KingWhite;
+export const kingBlack = KingBlack;
+export const knightWhite = KnightWhite;
+export const knightBlack = KnightBlack;
+export const pawnWhite = PawnWhite;
+export const pawnBlack = PawnBlack;
+export const queenWhite = QueenWhite;
+export const queenBlack = QueenBlack;
+export const rookWhite = RookWhite;
+export const rookBlack = RookBlack;
+
